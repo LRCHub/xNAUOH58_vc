@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイソレイション",
+  "base_artist": "[ahi:]",
+  "createdAt": "2026-02-17T14:14:37.567686Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイソレイション (feat. HACHI & DJ WILDPARTY)",
+      "artist": "[ahi:]",
+      "has_synced": false,
+      "path": "select/pl_01_アイソレイション_(feat._HACHI_&_DJ_WILDPARTY)_[ahi_].txt"
+    }
+  ]
+}
